@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Marie-Elen Odimba Kombe - [Github](https://github.com/ElmarOdz) 
-Ukasoanya Precious C - [Github](https://github.com/,,,,,,,,,,,,,) / [Twitter](https://twitter.com/earthtojhuang)  
+Ukasoanya Precious Chidiebube - [Github](https://github.com/ESHANWISE)  
 
 Second part of Airbnb: 
 ## License
